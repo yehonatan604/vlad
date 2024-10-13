@@ -78,7 +78,7 @@ body{
           rgba(14, 165, 233, 0.5),
           rgba(59, 130, 246, 0.8)
         ),
-        url("../images/giphy.gif") no-repeat;
+        url("./images/giphy.gif") no-repeat;
       background-size: cover;
       z-index: -1;
     }
@@ -124,7 +124,7 @@ body{
           rgba(14, 165, 233, 0.5),
           rgba(59, 130, 246, 0.8)
         ),
-        url("../images/giphy.gif") no-repeat;
+        url("./images/giphy.gif") no-repeat;
       background-size: cover;
     }
     &::before{
